@@ -18,7 +18,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/LAB04/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi/Models/BankAccount.cs",
+                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/LAB04/Nueva%20carpeta/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi/Models/BankAccount.cs",
                 "region": {
                   "startLine": 7,
                   "startColumn": 17,
@@ -31,7 +31,7 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/LAB04/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi/Models/BankAccount.cs",
+                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/LAB04/Nueva%20carpeta/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi/Models/BankAccount.cs",
                 "region": {
                   "startLine": 5,
                   "startColumn": 33,
@@ -52,7 +52,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/LAB04/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi/Program.cs",
+                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/LAB04/Nueva%20carpeta/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi/Program.cs",
                 "region": {
                   "startLine": 41,
                   "startColumn": 8,
@@ -73,65 +73,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/LAB04/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi/Models/BankAccount.cs",
-                "region": {
-                  "startLine": 26,
-                  "startColumn": 55,
-                  "endLine": 26,
-                  "endColumn": 63
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CA1512",
-          "level": "note",
-          "message": "Use 'ArgumentOutOfRangeException.ThrowIfNegative' en lugar de iniciar explícitamente una nueva instancia de excepción",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/LAB04/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi/Models/BankAccount.cs",
-                "region": {
-                  "startLine": 25,
-                  "startColumn": 13,
-                  "endLine": 26,
-                  "endColumn": 65
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/LAB04/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi/Models/BankAccount.cs",
-                "region": {
-                  "startLine": 25,
-                  "startColumn": 17,
-                  "endLine": 25,
-                  "endColumn": 23
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "MethodNameProperty": "ThrowIfNegative"
-            }
-          }
-        },
-        {
-          "ruleId": "CA1507",
-          "level": "note",
-          "message": "Use nameof en lugar del literal de cadena \"amount\"",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/LAB04/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi/Models/BankAccount.cs",
+                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/LAB04/Nueva%20carpeta/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi/Models/BankAccount.cs",
                 "region": {
                   "startLine": 18,
                   "startColumn": 55,
@@ -152,7 +94,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/LAB04/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi/Models/BankAccount.cs",
+                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/LAB04/Nueva%20carpeta/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi/Models/BankAccount.cs",
                 "region": {
                   "startLine": 20,
                   "startColumn": 55,
@@ -173,7 +115,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/LAB04/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi/Models/BankAccount.cs",
+                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/LAB04/Nueva%20carpeta/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi/Models/BankAccount.cs",
                 "region": {
                   "startLine": 17,
                   "startColumn": 13,
@@ -186,7 +128,7 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/LAB04/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi/Models/BankAccount.cs",
+                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/LAB04/Nueva%20carpeta/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi/Models/BankAccount.cs",
                 "region": {
                   "startLine": 17,
                   "startColumn": 17,
@@ -197,7 +139,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/LAB04/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi/Models/BankAccount.cs",
+                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/LAB04/Nueva%20carpeta/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi/Models/BankAccount.cs",
                 "region": {
                   "startLine": 17,
                   "startColumn": 26,
@@ -221,7 +163,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/LAB04/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi/Models/BankAccount.cs",
+                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/LAB04/Nueva%20carpeta/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi/Models/BankAccount.cs",
                 "region": {
                   "startLine": 19,
                   "startColumn": 13,
@@ -234,11 +176,69 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/LAB04/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi/Models/BankAccount.cs",
+                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/LAB04/Nueva%20carpeta/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi/Models/BankAccount.cs",
                 "region": {
                   "startLine": 19,
                   "startColumn": 17,
                   "endLine": 19,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "MethodNameProperty": "ThrowIfNegative"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1507",
+          "level": "note",
+          "message": "Use nameof en lugar del literal de cadena \"amount\"",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/LAB04/Nueva%20carpeta/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi/Models/BankAccount.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 55,
+                  "endLine": 26,
+                  "endColumn": 63
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1512",
+          "level": "note",
+          "message": "Use 'ArgumentOutOfRangeException.ThrowIfNegative' en lugar de iniciar explícitamente una nueva instancia de excepción",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/LAB04/Nueva%20carpeta/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi/Models/BankAccount.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 13,
+                  "endLine": 26,
+                  "endColumn": 65
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/LAB04/Nueva%20carpeta/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi/Models/BankAccount.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 17,
+                  "endLine": 25,
                   "endColumn": 23
                 }
               }
@@ -258,7 +258,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/LAB04/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi/Program.cs",
+                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/LAB04/Nueva%20carpeta/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi/Program.cs",
                 "region": {
                   "startLine": 39,
                   "startColumn": 1,

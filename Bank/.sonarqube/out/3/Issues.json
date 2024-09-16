@@ -12,18 +12,39 @@
       },
       "results": [
         {
+          "ruleId": "S2699",
+          "level": "warning",
+          "message": "Add at least one assertion to this test case.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/LAB04/Nueva%20carpeta/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi.Tests/BankAccountTests.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 21,
+                  "endLine": 11,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
           "ruleId": "NUnit2005",
           "level": "warning",
           "message": "Consider using the constraint model, Assert.That(actual, Is.EqualTo(expected)), instead of the classic model, Assert.AreEqual(expected, actual)",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/LAB04/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi.Tests/BankAccountTests.cs",
+                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/LAB04/Nueva%20carpeta/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi.Tests/BankAccountTests.cs",
                 "region": {
-                  "startLine": 20,
+                  "startLine": 30,
                   "startColumn": 13,
-                  "endLine": 20,
-                  "endColumn": 86
+                  "endLine": 30,
+                  "endColumn": 94
                 }
               }
             }
@@ -31,7 +52,33 @@
           "properties": {
             "warningLevel": 1,
             "customProperties": {
-              "HasToleranceValue": "True",
+              "HasToleranceValue": "False",
+              "IsGenericMethod": "False",
+              "ModelName": "AreEqual"
+            }
+          }
+        },
+        {
+          "ruleId": "NUnit2005",
+          "level": "warning",
+          "message": "Consider using the constraint model, Assert.That(actual, Is.EqualTo(expected)), instead of the classic model, Assert.AreEqual(expected, actual)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/LAB04/Nueva%20carpeta/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi.Tests/BankAccountTests.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 13,
+                  "endLine": 59,
+                  "endColumn": 105
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "HasToleranceValue": "False",
               "IsGenericMethod": "False",
               "ModelName": "AreEqual"
             }
@@ -48,6 +95,22 @@
           "properties": {
             "category": "Assertion",
             "isEnabledByDefault": true
+          }
+        },
+        "S2699": {
+          "id": "S2699",
+          "shortDescription": "Tests should include assertions",
+          "fullDescription": "The rule targets test methods that lack an assertion and consist solely of an action and, optionally, a setup.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2699",
+          "properties": {
+            "category": "Blocker Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "TestSourceScope",
+              "SonarWay"
+            ]
           }
         }
       }

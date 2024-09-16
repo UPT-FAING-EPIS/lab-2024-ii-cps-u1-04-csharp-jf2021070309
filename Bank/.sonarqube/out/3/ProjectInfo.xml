@@ -4,14 +4,14 @@
   <ProjectLanguage>C#</ProjectLanguage>
   <ProjectType>Test</ProjectType>
   <ProjectGuid>ce0e25c7-b3fe-42a6-9957-03c5269e66d7</ProjectGuid>
-  <FullPath>C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\Bank.WebApi.Tests\Bank.WebApi.Tests.csproj</FullPath>
+  <FullPath>C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\Nueva carpeta\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\Bank.WebApi.Tests\Bank.WebApi.Tests.csproj</FullPath>
   <IsExcluded>false</IsExcluded>
   <AnalysisResults>
-    <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\.sonarqube\conf\3\FilesToAnalyze.txt" />
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\Nueva carpeta\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\.sonarqube\conf\3\FilesToAnalyze.txt" />
   </AnalysisResults>
   <AnalysisSettings>
-    <Property Name="sonar.cs.roslyn.reportFilePaths">C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\.sonarqube\out\3\Issues.json</Property>
-    <Property Name="sonar.cs.analyzer.projectOutPaths">C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\.sonarqube\out\3</Property>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\Nueva carpeta\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\.sonarqube\out\3\Issues.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\Nueva carpeta\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\.sonarqube\out\3</Property>
   </AnalysisSettings>
   <Configuration>Debug</Configuration>
   <Platform>AnyCPU</Platform>

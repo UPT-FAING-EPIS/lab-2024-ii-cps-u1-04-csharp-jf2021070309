@@ -1,11 +1,25 @@
-
-ŠC:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\Bank.WebApi.Tests\BankAccountTests.cs
+‰
+˜C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\Nueva carpeta\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\Bank.WebApi.Tests\BankAccountTests.cs
 
  !
 
-		 8
- #F V
-  %
-  $
-   #
- & ,
+ 9
+
+ >
+ #F V
+  '
+  $
+   #
+ & ,
+
+"" O
+%% #''F V
+&& **L X
+'' **= D
+
+.. B
+11 #44F V
+22 77 '
+33 ;; $
+44 77 :: #
+:: ;;& ,

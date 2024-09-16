@@ -1,5 +1,5 @@
-§
-{C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\Bank.WebApi\Program.cs
+¶
+‰C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\Nueva carpeta\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\Bank.WebApi\Program.cs
 var 
 builder 
 = 
@@ -229,8 +229,8 @@ Enumerable 
 $num++9 ?
 )++? @
 ;++@ A
-},, ±
-†C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\Bank.WebApi\Models\BankAccount.cs
+},, ¿
+”C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\Nueva carpeta\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\Bank.WebApi\Models\BankAccount.cs
 	namespace 	
 Bank
  

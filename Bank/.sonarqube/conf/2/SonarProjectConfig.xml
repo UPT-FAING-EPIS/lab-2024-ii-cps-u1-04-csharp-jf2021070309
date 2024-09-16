@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SonarProjectConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/analyzer/2021/1">
-  <AnalysisConfigPath>C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\.sonarqube\conf\SonarQubeAnalysisConfig.xml</AnalysisConfigPath>
-  <ProjectPath>C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\Bank.WebApi\Bank.WebApi.csproj</ProjectPath>
-  <FilesToAnalyzePath>C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\.sonarqube\conf\2\FilesToAnalyze.txt</FilesToAnalyzePath>
-  <OutPath>C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\.sonarqube\out\2</OutPath>
+  <AnalysisConfigPath>C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\Nueva carpeta\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\.sonarqube\conf\SonarQubeAnalysisConfig.xml</AnalysisConfigPath>
+  <ProjectPath>C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\Nueva carpeta\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\Bank.WebApi\Bank.WebApi.csproj</ProjectPath>
+  <FilesToAnalyzePath>C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\Nueva carpeta\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\.sonarqube\conf\2\FilesToAnalyze.txt</FilesToAnalyzePath>
+  <OutPath>C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\Nueva carpeta\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\.sonarqube\out\2</OutPath>
   <ProjectType>Product</ProjectType>
   <TargetFramework>net8.0</TargetFramework>
 </SonarProjectConfig>
