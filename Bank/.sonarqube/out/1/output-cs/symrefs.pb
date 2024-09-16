@@ -1,0 +1,11 @@
+ù
+äC:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\Bank.WebApi.Tests\BankAccountTests.cs
+
+ !
+
+		 8
+ #F V
+  %
+  $
+   #
+ & ,
