@@ -7,9 +7,10 @@ on:
   push:
     branches: [ "main" ]
   workflow_dispatch:
+
 jobs:
   sonarqube:
-    name: SonarQube Analysis
+    name: Sonarqube Analisys
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -17,19 +18,18 @@ jobs:
         with:
           distribution: 'temurin'
           java-version: '17'
-      - name: Configurar la versión de .NET
+      - name: Configurando la versión de NET
         uses: actions/setup-dotnet@v4
         with:
           dotnet-version: ${{ env.DOTNET_VERSION }}
       - name: Restaurar los paquetes
-        run: dotnet restore Bank/Bank.sln
+        run: dotnet restore 
       - name: Ejecutar pruebas
-        run: dotnet test Bank/Bank.sln --collect:"XPlat Code Coverage;Format=opencover"
+        run: dotnet test --collect:"XPlat Code Coverage;Format=opencover"
       - name: Instalar Scanner
         run: dotnet tool install -g dotnet-sonarscanner
       - name: Ejecutar escaneo
         run: |
-             cd Bank
              dotnet-sonarscanner begin /k:"jaimeflores_apibank" /o:"jaimeflores" /d:sonar.login="2df948560099b588180f429d99e930ecd0077314" /d:sonar.host.url="https://sonarcloud.io" /d:sonar.cs.opencover.reportsPaths="//*/coverage.opencover.xml" /d:sonar.qualitygate.wait=true
              dotnet build
              dotnet-sonarscanner end /d:sonar.login="2df948560099b588180f429d99e930ecd0077314"
