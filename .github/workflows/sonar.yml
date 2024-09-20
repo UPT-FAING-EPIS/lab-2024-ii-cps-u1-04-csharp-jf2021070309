@@ -1,6 +1,6 @@
 name: Sonar Continuous Integration
 env:
-  DOTNET_VERSION: '8.0' # La versión de .NET
+  DOTNET_VERSION: '8.0' # La versión de  .NET
   SONAR_ORG: 'jaimeflores' # Nombre de la organización de SonarCloud
   SONAR_PROJECT: 'jaimeflores_apibank' # Key ID del proyecto de SonarCloud
 on:
