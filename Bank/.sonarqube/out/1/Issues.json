@@ -18,11 +18,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/LAB04/Nueva%20carpeta/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi.Tests/BankAccountTests.cs",
+                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/FJAAA/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi.Tests/BankAccountTests.cs",
                 "region": {
-                  "startLine": 180,
+                  "startLine": 98,
                   "startColumn": 13,
-                  "endLine": 180,
+                  "endLine": 98,
                   "endColumn": 122
                 }
               }
@@ -39,11 +39,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/LAB04/Nueva%20carpeta/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi.Tests/BankAccountTests.cs",
+                "uri": "file:///C:/Users/Jaimeelias/Documents/CALIDAD%20Y%20PRUEBAS/FJAAA/lab-2024-ii-cps-u1-04-csharp-jf2021070309/Bank/Bank.WebApi.Tests/BankAccountTests.cs",
                 "region": {
-                  "startLine": 98,
+                  "startLine": 180,
                   "startColumn": 13,
-                  "endLine": 98,
+                  "endLine": 180,
                   "endColumn": 122
                 }
               }

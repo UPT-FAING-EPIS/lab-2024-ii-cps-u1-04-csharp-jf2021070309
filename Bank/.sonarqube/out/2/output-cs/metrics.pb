@@ -1,6 +1,0 @@
-Ñ
-‰C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\Nueva carpeta\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\Bank.WebApi\Program.cs 8j
-r! !"#$%')*+,x‚"'Ð
-”C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\Nueva carpeta\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\Bank.WebApi\Models\BankAccount.cs 8	r	
-x‚
-

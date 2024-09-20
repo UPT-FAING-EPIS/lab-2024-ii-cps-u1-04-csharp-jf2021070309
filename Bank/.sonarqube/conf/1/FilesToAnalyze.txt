@@ -1,4 +1,4 @@
-﻿C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\Nueva carpeta\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\Bank.WebApi.Tests\BankAccountTests.cs
+﻿C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\FJAAA\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\Bank.WebApi.Tests\BankAccountTests.cs
 C:\Users\Jaimeelias\.nuget\packages\microsoft.net.test.sdk\17.8.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.cs
 C:\Users\Jaimeelias\.nuget\packages\microsoft.testplatform.testhost\17.8.0\build\netcoreapp3.1\x64\testhost.exe
 C:\Users\Jaimeelias\.nuget\packages\microsoft.testplatform.testhost\17.8.0\build\netcoreapp3.1\x64\testhost.dll
@@ -8,20 +8,3 @@ C:\Users\Jaimeelias\.nuget\packages\nunit3testadapter\4.2.1\build\netcoreapp2.1\
 C:\Users\Jaimeelias\.nuget\packages\nunit3testadapter\4.2.1\build\netcoreapp2.1\nunit.engine.api.dll
 C:\Users\Jaimeelias\.nuget\packages\nunit3testadapter\4.2.1\build\netcoreapp2.1\nunit.engine.core.dll
 C:\Users\Jaimeelias\.nuget\packages\nunit3testadapter\4.2.1\build\netcoreapp2.1\testcentric.engine.metadata.dll
-C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\Nueva carpeta\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\Bank.WebApi.Tests\TestResults\0632f556-6420-45cb-a002-8a45ec65ab95\coverage.cobertura.xml
-C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\Nueva carpeta\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\Bank.WebApi.Tests\TestResults\0d0e10b9-bd43-4c33-9ab5-cde95a2d7814\coverage.cobertura.xml
-C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\Nueva carpeta\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\Bank.WebApi.Tests\TestResults\1fe8a016-ef81-4845-a1db-584f3ca84f48\coverage.cobertura.xml
-C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\Nueva carpeta\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\Bank.WebApi.Tests\TestResults\34954796-e56e-4307-8c78-90599bef2907\coverage.cobertura.xml
-C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\Nueva carpeta\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\Bank.WebApi.Tests\TestResults\35d5b661-f3f4-49c2-91e7-598b88deb348\coverage.cobertura.xml
-C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\Nueva carpeta\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\Bank.WebApi.Tests\TestResults\3b0ee540-747c-472d-a051-9457c981042c\coverage.cobertura.xml
-C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\Nueva carpeta\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\Bank.WebApi.Tests\TestResults\4bcd3484-25f1-49e5-88fc-d324de68cace\coverage.opencover.xml
-C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\Nueva carpeta\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\Bank.WebApi.Tests\TestResults\55aec24c-5ab0-47de-8ab2-2057f6568a73\coverage.cobertura.xml
-C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\Nueva carpeta\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\Bank.WebApi.Tests\TestResults\564c2c00-247e-459a-ab01-909f6920c044\coverage.cobertura.xml
-C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\Nueva carpeta\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\Bank.WebApi.Tests\TestResults\5c3ef816-8aea-43d1-bb99-13de68a7d3f8\coverage.opencover.xml
-C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\Nueva carpeta\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\Bank.WebApi.Tests\TestResults\78abeaab-0569-4eb0-9ea5-57d78da7b316\coverage.cobertura.xml
-C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\Nueva carpeta\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\Bank.WebApi.Tests\TestResults\8d0a7be2-badd-4e48-829c-24d04a5bd355\coverage.cobertura.xml
-C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\Nueva carpeta\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\Bank.WebApi.Tests\TestResults\8f958093-cc94-4b85-b450-753a9b90e895\coverage.opencover.xml
-C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\Nueva carpeta\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\Bank.WebApi.Tests\TestResults\90ab4be2-0862-47d0-bf5b-622f98f5403f\coverage.cobertura.xml
-C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\Nueva carpeta\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\Bank.WebApi.Tests\TestResults\955dd6c8-cc02-4cb4-bda1-96283e49a116\coverage.opencover.xml
-C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\Nueva carpeta\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\Bank.WebApi.Tests\TestResults\bd671b07-050b-4de2-bd51-7c8b12b0e929\coverage.opencover.xml
-C:\Users\Jaimeelias\Documents\CALIDAD Y PRUEBAS\LAB04\Nueva carpeta\lab-2024-ii-cps-u1-04-csharp-jf2021070309\Bank\Bank.WebApi.Tests\TestResults\d14e0a5d-9973-45d0-b631-e41276076251\coverage.cobertura.xml
