@@ -1,6 +1,6 @@
 name: Sonar Continuous Integration
 env:
-  DOTNET_VERSION: '8.0' # La versión de  .NET
+  DOTNET_VERSION: '7.0' # La versión de  .NET
   SONAR_ORG: 'jaimeflores' # Nombre de la organización de SonarCloud
   SONAR_PROJECT: 'jaimeflores_apibank' # Key ID del proyecto de SonarCloud
 on:
@@ -29,6 +29,6 @@ jobs:
         run: dotnet tool install -g dotnet-sonarscanner
       - name: Ejecutar escaneo
         run: |
-          dotnet-sonarscanner begin /k:"${{ env.SONAR_PROJECT }}" /o:"${{ env.SONAR_ORG }}" /d:sonar.login="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io" /d:sonar.cs.opencover.reportsPaths="**/coverage.opencover.xml" /d:sonar.qualitygate.wait=true
-          dotnet build Bank/Bank.sln
+          dotnet-sonarscanner begin /k:"${{ env.SONAR_PROJECT }}" /o:"${{ env.SONAR_ORG }}" /d:sonar.login="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io" /d:sonar.cs.opencover.reportsPaths="//*/coverage.opencover.xml" /d:sonar.qualitygate.wait=true
+          dotnet build
           dotnet-sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
