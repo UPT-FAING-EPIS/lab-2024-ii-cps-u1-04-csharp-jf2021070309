@@ -29,7 +29,7 @@ jobs:
         run: dotnet tool install -g dotnet-sonarscanner
       - name: Ejecutar escaneo
         run: |
-             dotnet-sonarscanner begin /k:"jaimeflores_apibank" /o:"jaimeflores" /d:sonar.login="8711b144ca841a857c1a5651994e691f11c7fb87" /d:sonar.host.url="https://sonarcloud.io" /d:sonar.cs.opencover.reportsPaths="//*/coverage.opencover.xml" /d:sonar.qualitygate.wait=true
-             dotnet build
-             dotnet-sonarscanner end /d:sonar.login="8711b144ca841a857c1a5651994e691f11c7fb87"
+             dotnet-sonarscanner begin /k:"jaimeflores_apibank" /o:"jaimeflores" /d:sonar.login="2df948560099b588180f429d99e930ecd0077314" /d:sonar.host.url="https://sonarcloud.io" /d:sonar.cs.opencover.reportsPaths="//*/coverage.opencover.xml" /d:sonar.qualitygate.wait=true
+             dotnet build cd Bank
+             dotnet-sonarscanner end /d:sonar.login="2df948560099b588180f429d99e930ecd0077314"
 
