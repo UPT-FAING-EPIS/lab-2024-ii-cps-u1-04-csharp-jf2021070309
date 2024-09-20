@@ -30,6 +30,6 @@ jobs:
       - name: Ejecutar escaneo
         run: |
              dotnet-sonarscanner begin /k:"jaimeflores_apibank" /o:"jaimeflores" /d:sonar.login="2df948560099b588180f429d99e930ecd0077314" /d:sonar.host.url="https://sonarcloud.io" /d:sonar.cs.opencover.reportsPaths="//*/coverage.opencover.xml" /d:sonar.qualitygate.wait=true
-             dotnet build cd Bank
+             dotnet build
              dotnet-sonarscanner end /d:sonar.login="2df948560099b588180f429d99e930ecd0077314"
 
